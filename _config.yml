@@ -12,8 +12,4 @@ color:
     - '#FFFFA6'
 layout_spectrum: 0.6770904320292175
 name: JomezPro
-navigation:
-  - name: Videos
-    url: www.jomezpro.com
-    type: external
 description: Always looking forward
