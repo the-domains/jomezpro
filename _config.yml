@@ -1,23 +1,14 @@
 layout_spectrum: 0.6770904320292175
-typography_spectrum: 0.5862849960103631
+typography_spectrum: 0.9115635054185987
 color:
-  brandStrength: 0.5603588984813541
-  lightness: 0.2449471247382462
-  saturation: 0.3156625295523554
-  rhythmicContrast: 0.39139245660044253
+  brandStrength: 0.6141268773935735
+  lightness: 0.8431015212554485
+  saturation: 0.15146919339895248
+  rhythmicContrast: 0.03303854260593653
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: JomezPro
-navigation:
-  - name: JomezPhotos
-    id: 76365b43-6984-4647-8a79-f832e8e8647e
-    type: content
-  - name: JomezVideos
-    url: 'http://www.jomezpro.com'
-    type: external
-title: JomezPro
-description: Always looking forward
