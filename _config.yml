@@ -16,5 +16,8 @@ navigation:
   - name: JomezPhotos
     id: 76365b43-6984-4647-8a79-f832e8e8647e
     type: content
+  - name: JomezVideos
+    url: 'http://www.jomezpro.com'
+    type: external
 title: JomezPro
 description: Always looking forward
